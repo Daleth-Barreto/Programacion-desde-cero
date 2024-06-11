@@ -15,7 +15,7 @@ Estas notas tienen como objetivo dar un repaso breve a c++ explicando las bases 
 En estas notas no se vera nada de GUI
 ## Materiales
 No se requiere ningun material pero se recomienda utilizar:
-*(Online GDB)[https://www.onlinegdb.com/]como editor de codigo para no instalar un editor externo
-*(Ejercicios del curso de omegaUp)[] Para probar lo aprendido(En proceso, se recomienda buscar por cuenta propia en omegaUp )
+* [Online GDB](https://www.onlinegdb.com/) como editor de codigo para no instalar un editor externo
+* [Ejercicios del curso de omegaUp](https://omegaup.com/) Para probar lo aprendido(En proceso, se recomienda buscar por cuenta propia en omegaUp )
 
 **Este material esta en proceso de creacion y esta siendo elaborado por:** Daleth Hernandez 
