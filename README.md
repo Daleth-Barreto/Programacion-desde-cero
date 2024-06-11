@@ -1,4 +1,4 @@
-#Que es este repositorio?
+# Que es este repositorio?
 Este repositorio esta destinado a ser una guia de estudio o repaso para distintos lenguajes. Estara divido en distintas carpetas con diversos lenguajes y herramientas relacionadas con la programacion( principanlmente programacion competitiva, web y un poco de inteligencia artificial). 
 
 En cada Lenguaje, framework o libreria deberia de haber un readme en donde se deberan de mostras los siguientes puntos:
